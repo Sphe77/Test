@@ -1,0 +1,421 @@
+OBJECTID;LATITUDE;LONGITUDE;LOCATION;HOT SPOTS
+1;-30,03096;30,817812;Adams College;1
+2;-30,028506;30,82303;Adams Mission Library;2
+3;-29,68776;30,979058;Amaoti Clinic;1
+4;-29,7235;30,983464;Bester  Cash;1
+5;-29,7276;30,985116;Bester Health ;1
+6;-29,7234;30,982269;Bester Library;1
+7;-29,846778;31,006947;Botanical Gardens ;5
+8;-29,863239;30,967095;Cator Manor Museum;1
+9;-29,913893;30,884441;Chatsworth Fragrance Street;1
+10;-29,849444;30,946303;Chesterville Regional Centre         ;1
+11;-29,858739;31,025329;City Hall Main Park;3
+12;-29,791424;30,891932;Claremont Library;1
+13;-29,860932;31,016423;Deaf Laboratory - Sangro House;1
+14;-29,859291;31,009581;Durban Chest Clinic;1
+15;-29,949281;30,887753;Ekwazini High School;1
+16;-29,859427;31,026569;Florence Mkhize Building;1
+17;-29,835596;31,018548;Florida Road Tourism;1
+18;-29,693488;30,671774;Fredville Sizakala;2
+19;-29,736151;30,993968;Goodwins Clinic;3
+20;-29,85496;31,025883;Gugu Dlamini Park;2
+21;-29,711851;30,941982;Inanda Clinic             ;1
+22;-29,707498;30,976417;Inanda Ghandi settlement;4
+23;-29,688036;30,910682;Inanda Seminary school;2
+24;-29,874671;30,958016;INkosi Albert Luthuli Hospital;1
+25;-29,618986;31,104851;King Shaka Durban Airport ;1
+26;-30,095741;30,855017;Kingsburgh Civic Office ;3
+27;-29,7883;30,836378;Kloof  Civic Office;1
+28;-29,751;30,976263;Kwamakhutha Park;1
+29;-29,7413;30,983323;KwaMashu  E ABM;1
+30;-29,7373;31,001213;KwaMashu  E Parks;1
+31;-29,7396;30,994681;KwaMashu A Hostel;1
+32;-29,7418;30,995775;KwaMashu B Clinic;1
+33;-29,747;30,989866;Kwamashu C Hall;1
+34;-29,751;30,976263;KwaMashu Cemetery;1
+35;-29,7312;30,986105;KwaMashu D Swimming Pool;1
+36;-29,7578;30,987993;KwaMashu E Library;4
+37;-29,7367;31,002061;Kwamashu F Hall;1
+38;-29,7375;30,986938;KwaMashu G Swimming Pool;1
+39;-29,7413;30,983323;Kwamashu Indoor Centre;1
+40;-29,7471;30,972277;Kwamashu K Hall;1
+41;-29,7549;30,95876;KwaMashu Police;1
+42;-29,7489;30,973602;KwaMashu Stadium (Princess Mgogo);1
+43;-29,7437;30,97049;KwaMashu Treatment Works;1
+44;-29,7297;31,008817;Kwamashu Youth Centre;1
+45;-29,7542;30,979561;KwaMnyandu Sizakala;2
+46;-29,941604;30,939111;Lamontville Library;1
+47;-29,750039;30,933773;Lindelani Community Hall;1
+48;-29,857422;31,026432;Medwood Gardens Park;1
+49;-29,735706;30,868258;Molweni Office;1
+50;-29,812178;30,637288;Mpumalanga Regional Centre      ;1
+51;-29,86985;30,812733;Nagina Sizakala;6
+52;-29,849483;31,035337;North Beach Tourism Office;1
+53;-29,7381;30,955853;Ntuzuma Bus Depot;1
+54;-29,728274;30,947189;Ntuzuma C Clinic;1
+55;-29,687592;30,934802;Ntuzuma C Hall ;3
+56;-29,7261;30,992436;Ntuzuma Court ;1
+57;-29,7422;30,933282;Ntuzuma Fire;1
+58;-29,7274;30,946718;Ntuzuma Library;1
+59;-29,7269;30,929836;Ntuzuma Pool;1
+60;-29,7254;30,949023;Ntuzuma Roads;1
+61;-29,698779;30,957417;Ohlange High School;2
+62;-29,704252;31,002136;Phoenix Fire Station;1
+63;-29,856679;31,026472;Pine Street Bus Terminus;1
+64;-29,814538;30,863;Pinetown CBD;1
+65;-29,814401;30,862325;Pinetown Civic;3
+66;-29,852535;31,024797;Prior Road ;1
+67;-29,750099;30,963431;Sibonelo High school;1
+68;-29,855293;31,039277;South Beach Metro police ;1
+69;-29,9845;30,705248;UMbumbulu Office;1
+70;-29,853836;31,039931;South Beach (Wedge Beach);1
+71;-29,952;30,885234;Umlazi - G Hall/Imbalenhle Community Hall;1
+72;-29,9777;30,866709;Umlazi AA Clinic;5
+73;-29,9787;30,866021;Umlazi A-A Hall;1
+74;-29,9782;30,866838;Umlazi AA Library;1
+75;-29,9628;30,891978;Umlazi Bus Depot;1
+76;-29,9545;30,919949;Umlazi Depot;1
+77;-29,9554;30,9212;Umlazi East Roads Depot;1
+78;-29,9601;30,884806;Umlazi Fire Station;1
+79;-29,9541;30,939044;Umlazi Mega City;1
+80;-29,9721;30,902972;Umlazi Metro Police;1
+81;-29,9601;30,89813;Umlazi W Library;2
+82;-29,9628;30,891978;Umlazi West Roads Depot;1
+83;-29,9601;30,884806;Umlazi-E Ponds Waste Water Office;1
+84;-29,9601;30,89813;Umlazi-S Cemetery;1
+85;-29,9593;30,897328;Umlazi-W Treatment Works;1
+86;-30,161964;30,82258;Umnini Regional Centre;1
+87;-29,867231;31,045813;UShaka Marine World ;2
+88;-29,640765;31,047809;Verulam Regional            ;1
+89;-29,940487;30,983376;Austerville Clinic;3
+90;-29,81253;31,036927;Blue Lagoon;3
+91;-29,848016;31,008082;Botanic Admin Office;3
+92;-29,848016;31,008082;Botanic Garden Park;12
+93;-29,848016;31,008082;Botanic Tea garden;2
+94;-29,686232;31,016853;Caneside Clinic;2
+95;-29,8481;30,9714;Cato Crest Library;7
+96;-29,856341;30,949813;Chesterville Clinic;2
+97;-29,8592;30,9408;Chesterville Library;1
+98;-29,858593;31,026242;City Hall Art Gallary;3
+99;-29,858593;31,026243;City Hall Natural Science Museum;5
+100;-29,792994;30,89304;Clermont Clinic ;2
+101;-29,791424;30,891934;Clermont Library;1
+102;-29,872201;30,804242;Dassenhoek Library;2
+103;-29,857205;31,010923;Early Morning Market;8
+104;-29,858722;31,010645;English Market;8
+105;-29,914552;30,885014;Fragrance St Market;1
+106;-29,70179;30,674347;Fredville Sizakala;3
+107;-29,961532;30,939896;Glebelands-Hostel;1
+108;-29,735917;30,994031;Goodwin Clinic (Extension);2
+109;-29,849901;31,025079;HR Centre of Excellence;4
+110;-29,883932;30,82996;Klaarwater Clinic;2
+111;-29,8829485;30,8307156;Klaarwater Library;1
+112;-29,663819;30,637241;Kwa Ximba Sizakala;2
+113;-30,02457;30,866062;Kwamakhutha Park;2
+114;-29,852638;30,768036;KwaNdengezi Sizakala;1
+115;-29,942288;30,94997;Lamontville Clinic;2
+116;-29,942675;30,949972;Lamontville Sizakala;1
+117;-30,062259;30,82673;Lovu Clinic;3
+118;-30,064844;30,827918;Lovu Sizakala;1
+119;-29,888846;30,804217;Luganda Clinic;2
+120;-29,96943;30,912338;Mangosuthu University;1
+121;-29,862772;30,821411;Marianridge Clinic;2
+122;-29,82528;31,011902;Mitchell Park Zoo;3
+123;-29,738651;30,87074;Molweni Lower Hall;1
+124;-29,75604;30,875672;Molweni Secondary School;1
+125;-29,82892;31,030302;Moses Mabhida Stadium;36
+126;-29,81205;30,636733;Mpumalanga Sizakala (Extension);3
+127;-29,870384;30,812242;Nagina Clinic;6
+128;-29,8423;30,853;Nazareth Clinic;1
+129;-29,769951;30,9833235;Newlands East Library;1
+130;-29,780242;30,956381;Newlands West Library;1
+131;-29,835575;30,675388;Ntshongweni Library;3
+132;-29,858722;31,026899;Old Court House Museum;2
+133;-29,859466;31,009673;Prince Cyril Zulu CDC Clinic;6
+134;-29,8019707;30,5930578;Sakontshe Sizakala;1
+135;-29,795916;31,001533;Seacowlake Clinic;2
+136;-29,594773;30,900165;Thubalethu Secondary School;1
+137;-29,5702919;31,1199995;Tongaat Library;1
+138;-29,843249;30,809225;Tshelimnyama  Clinic;3
+139;-29,838103;30,815047;Tshelimnyama Library (Extension);2
+140;-29,808616;31,017356;Umgeni Bird Park;9
+141;-29,85477;30,965551;Umkhumbane Library;6
+142;-29,971682;30,87204;Umlazi Hall M;1
+143;-29,988293;30,892653;Umlazi U Hall;2
+144;-29,988255;30,892522;Umlazi W Hall;2
+145;-29,6408478;31,0479426;Verulam Sizakala;2
+146;-29,860639;31,00951;Warrick Park (Next to DUT);3
+147;-29,855447;31,010458;Warwick Avenue Street Poles;8
+148;-29,85219;31,010435;Warwick Central Fire Station;3
+149;-29,771782;30,871381;Wyebank Library;1
+150;-29,884818;30,71019;Zwelibomvu Community;2
+151;-29,884875;30,710398;Zwelibomvu Sizakala;3
+152;-29,853637;31,013557;Stable Theatre;2
+153;-29,49028;30,51329;Pinetown  Clinic;3
+154;-29,85588;31,02406;Shell House 1st Floor ;1
+155;-29,984722;30,703783;Umbumbulu Library;1
+156;-29,750039;30,933773;Lindelani Library ;2
+157;-29,88359698;30,84736118;Savannnah Park Clinic ;3
+158;-29,8619986;31,0216392;Maritime Museum ;2
+159;-29,713928;30,86287;Wushwini Art Centre;2
+160;-29,910964;30,879182;Chartsworth Clinic;2
+161;-29,913586;30,878157;Chartsworth Sizakala;2
+162;-29,7375;30,986938;Kwamashu G swimming pool;2
+163;-29,7312;30,986105;Kwamashu D swimming pool;2
+164;-29,8771857;30,7660764;St Mary Primary School Molweni;1
+165;-29,7403024;30,9824354;Kwamashu G swimming pool;2
+166;-29,45289;30,59162;Kwamashu D swimming pool;2
+167;-29,818469;30,861262;Pinetown Museum;1
+168;-29,856195;31,00359;ITRUMP ABM;2
+169;-29,888807;30,878176;Shallcross Sizakala;2
+170;-29,888807;30,878176;Shallcorss library;1
+171;-29,888807;30,878176;Shallcross Clinic;1
+172;-29,828566;31,0048;Overport Clinic;1
+173;-29,858698;30,9408;Chesterville Youth Centre ;1
+174;-29,8592;30,9408;Chesterville Library;1
+175;-29,858698;30,9408;Saint Wendolins Lib;1
+176;-29,701832;31,0079;Phoenix Sizaka;2
+177;-29,853721;30,81056;Impola Clinic;2
+178;-29,862661;30,967124;Umkhumbane Museum;8
+179;-30,025388;30,822223;Adams Clinic;3
+180;-30,028506;30,82303;Adams Library;3
+181;-30,03096;30,817812;Adams college;7
+182;-29,770712;30,87728;Wyebank Clinic;2
+183;-29,706174;30,850312;KwaNgcolosi Hall;3
+184;-30,03148;30,52502;Amanzimtoti Clinic;3
+185;-30,057886;30,876046;Amanzimtoti Library;1
+186;-30,053048;30,8771;Sydenham Clinic;3
+187;-29,836442;30,9808;Sparks Estate Library;1
+188;-29,881947;30,921767;Malvern library;2
+189;-29,881947;30,921767;Malvern Clinic;3
+190;-29,39137;31,021398;Redcliffe Clinic;4
+191;-29,7809029;31,021223;Redhill Clinic;4
+192;-29,569121;31,115776;Hambanathi clinic;4
+193;-29,779457;30,954501;Newlands West clinic;4
+194;-29,780128;30,979177;Newlands East clinic;3
+195;-29,5702919;31,1199995;Tongaat central library;2
+196;-30,202178;30,753556;Craigburn Clinic;3
+197;-30,202178;30,753556;Craigburn Sizakala;1
+198;-30,202178;30,753556;Craigburn library;1
+199;-29,924537;30,963675;Monclair Pool;2
+200;-29,922999;30,967469;Monclair Recreational Hall;2
+201;-29,952651;31,029195;Merebank Clinic;1
+202;-29,952378;30,969798;Merebank Library;2
+203;-29,650759;31,043051;Verulam Testing ground;3
+204;-29,646214;31,047169;Verulam Clinic;4
+205;-29,723895;31,017949;Stonebridge Clinic;2
+206;-29,996025;30,919633;Isipingo Clinic;3
+207;-29,997259;30,9083551;Isipingo lutus Hall;3
+208;-29,996751;30,946319;Isipingo beach hall;3
+209;-29,997341;30,946329;Isipingo civic library;2
+210;-30,0081;30,936719;Isipingo beach swimming pool;2
+211;-30,0081;30,936719;Umkomaas Clinic;3
+212;-30,205829;30,797821;Umkomaas Library;2
+213;-29,791424;30,891932;Clermont library;2
+214;-29,791344;30,892044;Kloof clinic;2
+215;-29,791366;30,831614;Kloof library;1
+216;-29,791471;30,83182;Kwamashu G Hall;4
+217;-29,7437;30,97049;Kwamashu Treatment Works;3
+218;-29,814004;30,8632;Tranance Park Clinic ;3
+219;-29,653191;31,004495;Tranance Park library;2
+220;-29,729003;31,0082;Ottawa clinic;3
+221;-29,814538;30,863;Pinetown civic centre;4
+222;-29,8144453;30,8608813;Pinetown civic Hall;4
+223;-29,814004;30,8632;Tranance Park Clinic ;3
+224;-29,653191;31,004495;Trenance Park Library;2
+225;-29,852638;30,768036;Kwandengezi Sizakala;2
+226;-29,906565;30,903177;Woodhurst Library;2
+227;-29,906193;30,902197;Woodhurst Clinic;3
+228;-29,779596;30,89854;Kwadabeka Sizakala;2
+229;-29,779923;30,898345;Kwadabeka library;2
+230;-29,832399;30,892369;Paradise Valley Park;3
+231;-29,697495;31,025517;Grove End clinic;3
+232;-29,748356;30,818213;Waterfall library;1
+233;-29,748623;30,818562;Waterfall Clinic;3
+234;-29,849483;31,035337;North Beach Tourism;4
+235;-29,835935;30,9226;Westville Clinic;3
+236;-29,860979;31,0294486;Westville Library;1
+237;-29,803014;30,952053;Reservour Hills Clinic;3
+238;-29,797466;30,87641;New Germany clinic;3
+239;-29,922195;30,874914;Montford Library;2
+240;-29,843219;31,029741;Durban Magistrate court;1
+241;-30,039722;30,898889;Amanzimtoti testing ground;2
+242;-29,8585912;31,0240066;City Hall;2
+243;-29,867231;31,045813;Ushaka marine world;40
+244;-29,830955;31,03261;Kings park pool;11
+245;-29,704252;31,002136;Phoenix fire station;2
+246;-29,835935;30,9226;Westville civic cetre;2
+247;-29,8584192;30,9561535;Motor licensing;2
+248;-29,971459;30,788474;King Zwelithini;1
+249;-30,0581749;30,8736305;Amanzimtoti Hall;2
+250;-29,739276;30,9739;Princess Magogo;2
+251;-29,65976;31,044513;Waterloo Clinic;3
+252;-29,904169;30,866894;Moorton Library;1
+253;-29,858722;31,026899;Old House Museum;2
+254;-29,814945;30,861469;Pinetown library;1
+255;-29,818469;30,861262;Pinetown museum;3
+256;-29,817919;31,025723;Goble road;2
+257;-29,9777;30,866709;uMlazi AA clinic;3
+258;-29,754167;31,062221;LaLucia Clinic;3
+259;-29,783889;30,7625;Hillcrest Sizakala;2
+260;-29,726388;31,086111;Umhlanga Sizakala;2
+261;-29,726388;31,086111;Umhlanga Clinic;3
+262;-300495764;30,8900584;Amanzimtoti beach office;5
+263;-29,723822;30,9668195;Kwamashu Sizakala;8
+264;-29,741945;30,995832;Kwamashu A Office;3
+265;-29,747;30,989866;Kwamashu C Hall;2
+266;-29,7471;30,972277;Kwamashu K hall;3
+267;-29,9675;30,905555;Umlazi D Hall;2
+268;-29,958055;30,924722;Umlazi V hall;3
+269;-29,9675;30,905555;Umlazi K Hall;2
+270;-29,674345;31,887643;Victoria Mxenge Hall;2
+271;-30,034166;30,876943;Iziko Hall Kwamakhutha;2
+272;-30,16578;30,769596;Magabheni;2
+273;-29,812374;30,639428;Mpumalanga Metro office;2
+274;-29,951655;30,8852;Imbalenhle Hall;2
+275;-29,569121;31,115776;Hambanathi Clinic;4
+276;-29,859022;31,027775;Siphumelele Hall;2
+277;29,78019;30,979197;Glen earle  clinic;3
+278;-29,8602973;30,9565003;Umkhumbane business park;6
+279;-29,698779;30,957417;Ohlanga School;9
+280;-29,91390028;30,99370917;Bluff Market;17
+281;-29,9972638;30,9105438;Lotus Park Community Hall;2
+282;-30,16578;30,769596;Magabheni roads and srorm water;2
+283;-29,687162;31,046112;Cornibia Wellness Center;3
+284;-29,853078;30,687723;Ntshongweni Community Hall;3
+285;-30,024333;30,867323;Siphumelele hall;3
+286;-29,835575;30,675388;Ntshongweni Library;1
+287;-29,7276;30,985116;Bester clinic;4
+288;29,6677844;30,9584256;Tafuleni cemetry;2
+289;-29,581832;30,541932;KwaMnyandu Traders;2
+290;-29,696552;30,633448;Mobhila School;2
+291;-29,74935814;30,93360496;Ntuzuma H Hall;4
+292;-29,7237757;30,6492527;Inchanga Library;3
+293;-29,836606;30,6840963;Ntshongweni Primary School;3
+294;-29,816896;30,643428;Mpumalanga Hall;4
+295;-29,675142;31,000091;Amaoti Hall;5
+296;-29,8539325;30,7492304;Seda Sizakala;2
+297;-29,667532;30,901964;Qadi Community Hall;3
+298;-29,6587489;30,881123;Makhapha Seconday School;2
+299;-29,7366;30,5789;Cato Ridge Library;3
+300;-29,7909;30,6622;Hammersdale Sizakala;3
+301;-29,9863;30,9259;Isiphingo Sizakala;2
+302;-29,7274;30,9458;Ntuzuma Sizakala;2
+303;-29,8345;30,9305;Bergtheil Museum;4
+304;-29,849444;30,946303;Chesterville Sizakala;3
+305;-29,79574;30,89404;Kaarwater Sizakala;4
+306;-29,8609874;31,0294409;Molweni Sizakala;2
+307;-29,8325256;31,014002;Florida Road;19
+308;-296796425;30,9936032;Amaoti Library;3
+309;-29,843249;30,809225;Tshelimyama Clinic;3
+310;-29,7237804;30,6514414;Changa Library;3
+311;-29,8694316;31,0488991;Point Beach;14
+312;-29,787208;30,8261076;Kloof Clinic;3
+313;-29,7466946;30,983323;Kwamashu Indoor Sport Centre;4
+314;-29,9714;30,899836;Umlazi Stadium;5
+315;-29,97052;30,899156;Umlazi Metro Police;2
+316;-29,720806;31,0146532;Stonebridge Hall;3
+317;-29,8547846;31,0107519;Warwick Avenue Bus Terminals;8
+318;-29,858692;31,010064;Warwick Avenue Chesterville Rank ;2
+319;-29,85837688;31,00987561;Warwick Avenue Clemont Rank;5
+320;-29,85655;31,01102;Warwick Avenue Early Morning Market;21
+321;-29,8528054;31,0110049;Warwick Avenue Inanda Rank;7
+322;-29,851092;31,018775;Warwick Avenue KwaMashu Rank;3
+323;-29,85271;31,01674;Warwick Avenue Phoenix Rank;2
+324;-29,8594224;31,0102022;Warwick Avenue Metro Police Station;2
+325;-29,92301;30,89251;Croftdale Library;2
+326;-29,69856;30,95204;Impumelelo Disable Center;2
+327;-29,92269499;31,02000711;Ansteys Pool;1
+328;-29,9289926;31,0127732;Foreshore Drive;1
+329;-29,879022;30,80434743;Dassenhoek Hall;2
+330;-29,860199;31,037435;Phoenix Waste Water;1
+331;-29,887781;30,868347;Shallcross Roads;1
+332;-29,86164;30,969166;Cato Manor Clinic;4
+333;-29,85857;30,957782;Ukhumbane Depot;1
+334;-29,918047;30,942231;Yellow Wood Park Hall;2
+335;-29,707886;30,921993;Inanda Seminary Clinic;4
+336;-29,9327108;31,0128957;Brighton Pool;1
+337;-29,92262;30,019511;Ansteys Pool;1
+338;-29,698389;30,95199;Zethembe Disable Center;1
+339;-29,652155;31,036706;Mountview Hall;2
+340;-29,729703;30,008817;Phoenix Water Works;1
+341;-29,856665;30,803806;Thornwood library;2
+342;-29,977687;30,697466;Umbumbulu Hall;2
+343;-29,910517;30,877309;Chatsworth Stadium;3
+344;-29,887781;30,868347;Shallcross Roads;1
+345;-29,096457;30,85473;Kingsburg Clinic;1
+346;-29,860974;31,029521;Rennies House;2
+347;-29,7231;30,9829;Bester Hall;2
+348;-20,095406;30,9855322;Kingsburgh Sizakala;3
+349;-29,7334;30,9767;KwaMashu L Hall;3
+350;-29,9434;30,9454;Lamontville Hall;3
+351;-29,7702;30,9838;Newlands East Hall;2
+352;-29,6707;30,0329;Ottawa Hall;3
+353;-29,64405761;30,7892146;Chief Dlivane PS ;1
+354;-29,645591;30,792306;Maphephetheni Sizakala;2
+355;-29,9961;30,8999;Windy Heights Primary School;2
+356;-29,667269;31,012003;Zwelisha Hall ;3
+357;-29,609563;31,04424;Hazelmere  Hall ;3
+358;-30,0156;30,8872;Ezimbokodweni Hall;3
+359;-29,6778;30,0155;Shastri Park Hall;3
+360;-29,9224;30,9192;Bayview Clinic ;3
+361;-29,9236;30,9128;Bayview Hall ;3
+362;-29,8832;30,9206;Malvern Library ;2
+363;-29,889;30,8784;Shall cross Library ;2
+364;-29,9141;30,9898;Clair wood Metro Police ;3
+365;-30,0177;30,9198;Athlone Park Clinic ;3
+366;-29,6785;30,014;Shastri Park Library ;2
+367;-29,862;30,97;Cato Manor Park Home Clinic ;3
+368;-29,7433;30,0064;Duffs road Hall;3
+369;-29,6317;31,0555;Cane lands Training Center ;2
+370;-29,8886;30,8781;Shall cross Hall;2
+371;-29,7165;30,9706;Inanda Newtown C Hall;3
+372;-29,6648;31,0484;Waterloo Hall ;3
+373;-29,5705;31,1206;Tongaat Town Hall ;2
+374;-29,7951;30,8927;Clairmont Sport Hall ;3
+375;-29,7918;30,8852;Solomon Mahlangu hall ;3
+376;-29,8517;30,7673;Kwandengezi Hall;3
+377;-29,0834;30,8668;Kingburg Library ;3
+378;-29,9269;30,9254;Havenside Hall;5
+379;-29,8581;300100;Lansers Road Clinic ;2
+380;-29,8495998;31,0381926;Durban Beachfront ;14
+381;-298393034;31,0355926;Durban Beachfront ;20
+382;-29,867249;31,0436655;Durban Beachfront ;15
+383;-29,8581587;31,0408654;Durban  Beachfront ;5
+384;-30,1618113;30,8219222;Umnini Thusong Center AP ;3
+385;-30,0361321;30,892259;Amanzimtoti Birds Park AP ;2
+386;-29,9554;30,9212;Umlazi East Road Depot AP ;3
+387;-30,0619472;30,8259562;Illovu B hall AP's ;3
+388;-29,9887645;30,8202756;Folweni Clinic AP's ;3
+389;-29,8594893;31024031;Florence Mkhize Building AP ;1
+390;-29,9721;30,902972;Maphephetheni Hall AP installation;3
+391;-29,5914;30,1155;Tongaat Sizakala AP installation;4
+392;-29,742;30,9332;Ntuzuma Fire Station AP installation;3
+393;-29,9542;30,9189;Umlazi A Parks Depot AP installation ;3
+394;-29,9721;30,902972;Blue Lagoon Phase 2 Car Park;3
+395;-29,9721;30,902972;Blue Lagoon Phase 2 Pond;3
+396;-29,9721;30,902972;Blue Lagoon Phase 2 Grenn Hub;1
+397;-29,9748;30,8953;Umlazi Q Hall;3
+398;-29,7761;31,0183;Firwood Library;1
+399;-29,9524;30,936;Prince Mshiyeni Clinic;5
+400;-29,7832;30,8554;Wybank Hall;3
+401;-29,9597;30,8727;Umlazi N Clinic ;4
+402;-29,712;30,9828;Redfern Hall;3
+403;-29,812408;31,035251;Blue Lagoon bridge ;5
+404;2988300;30,8297;Klaarwater hall ;2
+405;-29,7798;30,8989;kwadabeka Library;3
+406;-29,8595;30,8248;Mariannridge Hall;3
+407;-29,8378;30,9423;Truro Hall ;3
+408;-29,6547;30,0434;Verulam Swimming pools;2
+409;-29,7273;309290;Ntuzuma Swimming Pool;3
+410;-29,7181;30,6512;Riet Valley Seconday School;4
+411;-29,6653032;30,6368123;KwaXimba Sizakala;3
+412;-29,9231083;30,9651908;Montclair Hall;3
+413;-29,9247285;30,9643859;Montclair Pool;3
+414;-29,8582;30,0192;Clermont Sizakala;4
+415;-29,77931;30,89395;Qashana Khuzwayo Library;1
+416;-29,83566;30,675406;Ntshongweni Sizakala;2
+417;-30,1787612;30,8138459;Umnini Hall;1
+418;-30,07291;30,83371;Ilovu Sizakala;2
+419;-29,748557;30,935643;Ntuzuma A Hall ;3
+420;-29,6988903;30,9565635;Ohlange Library;3
